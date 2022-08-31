@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yrac34
 - 👀 I’m interested in iOS development. 
-- I'm experienced in SwiftUI + Xcode and looking to grow more in these skills. 
+- I'm experienced in SwiftUI + Xcode
 <!-- - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
