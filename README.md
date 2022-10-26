@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yrac34
+- 👋 Hi, I’m Amy Chun
 - 👀 I’m interested in iOS development. 
 - I'm experienced in SwiftUI + Xcode
 <!-- - 🌱 I’m currently learning 
