@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amy Chun
-- 👀 I’m interested in iOS development. 
+- 👀 I’m interested in iOS mobile development 
 - I'm experienced in SwiftUI + Xcode
 <!-- - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
